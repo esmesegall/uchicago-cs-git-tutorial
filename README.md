@@ -1,5 +1,6 @@
 Esme Segall esmesegall
-UChicago CS Git Tutorial V2
+UChicago CS Git Tutorial
+Git is prety cool. 
  
  
 
