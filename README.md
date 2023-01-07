@@ -1,5 +1,6 @@
 Esme Segall esmesegall
-is this enough changed? 
+UChicago CS Git Tutorial
+ 
  
 
 
