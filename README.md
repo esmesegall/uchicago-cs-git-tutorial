@@ -1,5 +1,5 @@
 Esme Segall esmesegall
-UChicago CS Git Tutorial
+UChicago CS Git Tutorial V2
  
  
 
